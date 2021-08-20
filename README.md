@@ -1,5 +1,5 @@
 ### Hi there 👋, my alias is Ann
-![](https://photos.app.goo.gl/A7CAYBe1md7PW7Ra8)
+![](https://raw.githubusercontent.com/Thu-Duong/Thu-Duong/main/Anh-Thu%20Duong%20(1).png)
 
 I am learning economics
 
@@ -9,7 +9,7 @@ Skills: Python / R
 - ⚡ Fun fact: Sagittarius, INTJ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Thu-Duong)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thu-Duong)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Thu-Duong)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Thu-Duong)  
 
