@@ -9,7 +9,7 @@ Many recent studies in human capital accumulation have focused on identifying ho
 Skills: Python / R 
 
 - 🔭 I’m currently working on education inequality
-- ⚡ Fun fact: Sagittarius, INTJ 
+- ⚡ Fun fact: Sagittarius (The Originator), INTJ, Slytherin House :snake: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thu-Duong)  
