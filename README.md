@@ -8,7 +8,7 @@ Many recent studies in human capital accumulation have focused on identifying ho
 
 Skills: Python / R 
 
-- 🔭 I’m currently working on human capital theory 
+- 🔭 I’m currently working on education inequality
 - ⚡ Fun fact: Sagittarius, INTJ 
 
 
