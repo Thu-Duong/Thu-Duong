@@ -1,4 +1,4 @@
-### Hey Ya'll, :mortar_board:
+### Hello mate! :mortar_board:
 ![](https://raw.githubusercontent.com/non-ceterisparibus/non-ceterisparibus/main/Anh-Thu%20Duong%20(1).png)
 
 I am a Master's student of Economics.
