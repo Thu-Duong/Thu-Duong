@@ -8,7 +8,7 @@ Skills: Python / Stata
 
 - 🔭 I’m currently working on education inequality
 - ⚡ Fun fact: Sagittarius (The Originator), INTJ, Slytherin House :snake: 
-
+- 👁️ "I don't use my head to fly the arrow boy, I use my heart." -Yondu
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thu-Duong)  
 
