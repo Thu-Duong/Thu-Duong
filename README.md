@@ -3,7 +3,7 @@
 
 My name is Anh-Thu - a Master of Science Economics.
 
-My study mainly focuses on the quantitative economics with extensive training in programming and innovative analysis methods. As an inquisitive economic researcher utilizing strategic problem-solving and advanced analytics to guide business through the complexities of digital transformation, integrating the passion of Economics with Data Science to convert complex business questions into analytical use cases.
+My study mainly focuses on the quantitative economics with extensive training in programming and innovative analysis methods. As an inquisitive economic researcher who uses advanced analytical and strategic problem solving to guide business through the complexities of digital transformation, integrating the passion of Economics with Data Science to convert complex business questions into analytical use cases.
 
 Programming: Python / Stata / SQL
 
